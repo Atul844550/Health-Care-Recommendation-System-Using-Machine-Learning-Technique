@@ -1,0 +1,2 @@
+# Health-Care-Recommendation-System-Using-Machine-Learning-Technique
+Build a Health Care Recommendation System and compare the different algorithms such as, Linear Regression, KNN, Decision Tree, RandomForest for predicting the actual weight as a target feature and also use a  EDA process for checking the missing values from a dataset and different visualization among the independent and dependent features.
